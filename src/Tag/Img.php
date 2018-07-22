@@ -9,5 +9,4 @@ class Img
     public function render($src){
         return '<img src="'.$src.'"/>';
     }
-
 }
