@@ -39,6 +39,7 @@ $imprime->imprime(new Retangulo(5,10));
 echo '    ';
 $imprime->imprime(new Quadrado(5));
 
+//Comentário teste
 /*
  * Príncipio de Liskov
  * Subtipos devem ser substituíveis pelos seus tipos base.
